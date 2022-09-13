@@ -6,12 +6,12 @@ Settings:
     - Acquisition:
         Aperture: 2.20241559856522
         Brightness: 1.8
-        ExposureTime: 1677
+        ExposureTime: 100000
         Gain: 1.07480485047226
     - Acquisition:
         Aperture: 7.32788514929765
         Brightness: 1.76704945160877
-        ExposureTime: 1677
+        ExposureTime: 100000
         Gain: 1
     - Acquisition:
         Aperture: 2
